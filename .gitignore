@@ -1,0 +1,23 @@
+# Bytecode и кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальные окружения
+venv/
+env/
+
+# Конфиги редакторов
+.vscode/
+.idea/
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Секреты и окружение
+*.env
+.env.*
+
+# Логи
+*.log
